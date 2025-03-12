@@ -1,9 +1,9 @@
 parameters = {
-  "/myapp/database/username" = {
+  "username" = {
     type  = "String"
     value = "admin"
   }
-  "/myapp/database/password" = {
+  "password" = {
     type  = "SecureString"
     value = "supersecret"
   }
